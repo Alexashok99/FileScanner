@@ -6,7 +6,7 @@ A Python-based **File Scanner** that allows you to quickly scan folders, count f
 ---
 
 ## 🚀 Features
-
+* **🌍 Tutorials Point** – https://www.tutorialspoint.com/python/python_gui_programming.htm.
 * **📂 Choose Folder** – Select the folder to scan.
 * **🔍 File Scanning** – Detects and logs files with real-time updates.
 * **📊 File Type Statistics** – Counts files by type and calculates total size.
