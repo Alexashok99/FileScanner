@@ -91,6 +91,12 @@ project/
 │    │──constant.py
 │── assets/
 │    ├── icon.ico         # App icon
+│── gui/
+│    ├── app_gui.py       # GUI
+│── data/
+│    ├── log.txt
+│    ├── log.csv
+│    ├── log.pkl
 ```
 
 ---
