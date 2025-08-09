@@ -22,7 +22,7 @@ A Python-based **File Scanner** that allows you to quickly scan folders, count f
 
 ## 📸 Screenshot
 
-(https://github.com/Alexashok99/FileScanner/blob/main/Screenshot.png)
+https://github.com/Alexashok99/FileScanner/blob/main/Screenshot.png
 
 ---
 
